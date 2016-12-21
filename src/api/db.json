@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 76688144,
+            "firstName": "Gerry",
+            "lastName": "Emard",
+            "email": "Maxime50@yahoo.com"
+        },
+        {
+            "id": 29700571,
+            "firstName": "Lindsay",
+            "lastName": "Batz",
+            "email": "Jabari.Boyle84@gmail.com"
+        },
+        {
+            "id": 10861697,
+            "firstName": "Timothy",
+            "lastName": "McGlynn",
+            "email": "Chris.Ruecker@gmail.com"
+        },
+        {
+            "id": 48467493,
+            "firstName": "Araceli",
+            "lastName": "Flatley",
+            "email": "Oral_Hermiston16@hotmail.com"
+        },
+        {
+            "id": 12191314,
+            "firstName": "Russell",
+            "lastName": "Lind",
+            "email": "Allen_Kassulke@gmail.com"
+        }
+    ]
+}
